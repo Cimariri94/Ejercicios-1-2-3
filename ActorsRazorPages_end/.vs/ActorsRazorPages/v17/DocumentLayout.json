@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cindy\\OneDrive\\Escritorio\\Diplomados\\C#\\GALILEO\\Repo\\Allfiles\\Mod01\\Labfiles\\01_ActorsRazorPages_end\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC008AE4-EA3E-406E-93AC-D330FC08508A}|ActorsRazorPages\\ActorsRazorPages.csproj|c:\\users\\cindy\\onedrive\\escritorio\\diplomados\\c#\\galileo\\repo\\allfiles\\mod01\\labfiles\\01_actorsrazorpages_end\\actorsrazorpages\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC008AE4-EA3E-406E-93AC-D330FC08508A}|ActorsRazorPages\\ActorsRazorPages.csproj|solutionrelative:actorsrazorpages\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\cindy\\OneDrive\\Escritorio\\Diplomados\\C#\\GALILEO\\Repo\\Allfiles\\Mod01\\Labfiles\\01_ActorsRazorPages_end\\ActorsRazorPages\\Pages\\Contact.cshtml.cs",
+              "RelativeDocumentMoniker": "ActorsRazorPages\\Pages\\Contact.cshtml.cs",
+              "ToolTip": "C:\\Users\\cindy\\OneDrive\\Escritorio\\Diplomados\\C#\\GALILEO\\Repo\\Allfiles\\Mod01\\Labfiles\\01_ActorsRazorPages_end\\ActorsRazorPages\\Pages\\Contact.cshtml.cs",
+              "RelativeToolTip": "ActorsRazorPages\\Pages\\Contact.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:01:48.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
